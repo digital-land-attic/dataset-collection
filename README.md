@@ -1,9 +1,9 @@
-# Digital Land collection of datasets
+# Digital Land dataset collection
 
 [![License](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/digital-land/dataset-collection/blob/master/LICENSE)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://black.readthedocs.io/en/stable/)
 
-The list of datasets collected by Digital Land is kept and maintained in [dataset/dataset.csv](dataset/dataset.csv).
+A list of Digital Land datasets and their collections, kept and maintained in [dataset/dataset.csv](dataset/dataset.csv).
 
 # Licence
 
