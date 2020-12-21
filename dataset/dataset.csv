@@ -1,3 +1,3 @@
 dataset,name,resource-url,documentation-url,start-date,end-date
-brownfield-land,Brownfield Land,https://raw.githubusercontent.com/digital-land/brownfield-land-collection/master/index/index.json,https://github.com/digital-land/brownfield-land-collection,,
+brownfield-land,Brownfield Land,https://raw.githubusercontent.com/digital-land/brownfield-land-collection/main/collection/resource.csv,https://github.com/digital-land/brownfield-land-collection,,
 local-plans,Local plans,https://raw.githubusercontent.com/digital-land/alpha-data/master/local-plans/development-plan.csv,https://digital-land.github.io/specification/schema/development-plan/,,
